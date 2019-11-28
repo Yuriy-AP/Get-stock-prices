@@ -9,7 +9,7 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 
-os.chdir('C:\\Users\\Yuriy\\Desktop\\Invest')
+os.chdir(' ... Your File Path Here ...')
 
 # (1) Input needed dates:
 start = datetime(2011, 1, 1)
